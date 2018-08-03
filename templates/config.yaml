@@ -1,0 +1,10 @@
+cell-barcode:
+    start:
+    end:
+UMI-barcode:
+    start:
+    end:
+TAG_regex:
+max_TAG_barcode_distance:
+TAG_file:
+chemistry:
